@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "gruntfuggly.todo-tree",
+    "medo64.render-crlf",
+    "streetsidesoftware.code-spell-checker",
+  ]
+}
