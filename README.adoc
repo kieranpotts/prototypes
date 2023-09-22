@@ -1,0 +1,11 @@
+= Prototypes
+
+This repository contains various code prototypes, mostly for frontend web UI components.
+
+Each prototype is a self-contained file. HTML files can be loaded directly in a browser from your local filesystem. In most cases, no server is required to test the web prototypes.
+
+Refer to the source code for comments on the techniques trialed in each prototype, and links to sources.
+
+''''
+
+Copyright © Kieran Potts — link:LICENSE.txt[MIT license]
