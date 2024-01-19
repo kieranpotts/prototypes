@@ -1,5 +1,7 @@
 = Prototypes
 
+> **This repository is no longer maintained.**
+
 This repository contains various code prototypes, mostly for frontend web UI components.
 
 Each prototype is a self-contained file. HTML files can be loaded directly in a browser from your local filesystem. In most cases, no server is required to test the web prototypes.
